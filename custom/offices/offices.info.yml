@@ -1,0 +1,8 @@
+name: 'Offices'
+type: module
+description: 'A module to manage office entities.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:views
+  - drupal:field
